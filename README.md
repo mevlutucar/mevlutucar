@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ucarcodes.com](https://ucarcodes.com)
 
-- 💬 Ask me about **C#, Manual software testing, Unity, , Website X5**
+- 💬 Ask me about **C#, Manual software testing, Unity, Website X5**
 
 - 📫 How to reach me **ucarcodes@gmail.com**
 
