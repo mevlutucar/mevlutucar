@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mevlüt Uçar</h1>
 <h3 align="center">A passionate Software Tester & Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Software Testing and Software Developing**
+- 🔭 I’m currently working on **Unity Game Developing and Software Developing**
 
 - 🌱 I’m currently learning **Automation Testing, Manual Testing**
 
 - 👨‍💻 All of my projects are available at [https://ucarcodes.com](https://ucarcodes.com)
 
-- 💬 Ask me about **C#, Manual software testing, Unity, Website X5**
+- 💬 Ask me about **Unity, C#, Manual software testing, Website X5**
 
 - 📫 How to reach me **ucarcodes@gmail.com**
 
